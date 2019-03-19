@@ -1,0 +1,44 @@
+new repo-capbookremoterepoTeam15
+public-readme
+new workspace-D://javafullstackfinalproject
+file-new-springstarterproject
+group-com.cg
+artifactid-capbook
+project-capbookstore
+packaging-war
+java8,mavern
+web,jpa
+finish
+right click on project
+team-share project
+create
+name-capbooklocalrepoteam15
+finish
+prject right click
+team-pull
+uri-https://github.com/kutan16/CapbookRemoteRepoTeam15.git
+user-pass
+new remote
+finish
+reference-m
+masterbranch
+finish
+right click on project
+commit
+git staging
+unstaged changes put cursor and click and select all-right click-add to index
+commit msg box-initital commit done by name date
+commit and push
+next
+user-pass-login-finish
+refresh github workspace
+
+
+
+window-show view-other-git repo
+clone a repo
+login
+change remote to local
+finish
+right click
+import maven
